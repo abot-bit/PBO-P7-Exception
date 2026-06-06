@@ -59,7 +59,7 @@ Pastikan Anda telah menginstal Java Development Kit (JDK) di komputer Anda.
 2. Arahkan ke direktori tempat file-file Java ini disimpan.
 3. Lakukan kompilasi program dengan menjalankan perintah:
    ```bash
-   javac SistemPendaftaran.java
+   javac *.java
    ```
 4. Jalankan program yang telah dikompilasi dengan perintah:
    ```bash
